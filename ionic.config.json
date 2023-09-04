@@ -1,0 +1,7 @@
+{
+  "name": "WhisList",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
